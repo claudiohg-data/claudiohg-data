@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Claudio 👋
 
-<!--
-**claudiohg-data/claudiohg-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst Jr with technical support background and strong problem-solving skills.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Pandas
+- SQL
+- Data Cleaning
+- Exploratory Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+📊 Instacart E-commerce Analysis  
+🎵 Music User Behavior Analysis  
+📈 SQL Business Queries
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/claudio-hernandez-23688851/
+Email: klaudiohg@outlook.es
